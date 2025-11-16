@@ -337,3 +337,7 @@ Bu projeyi geliştirirken, Hugging Face Inference API entegrasyonu ve kurulumu k
 - Veritabanı şifresini güçlendirin
 - HTTPS kullanın
 - API rate limiting ekleyin
+
+
+https://github.com/user-attachments/assets/02672d3f-1ea4-4502-9926-6fefc4919952
+
