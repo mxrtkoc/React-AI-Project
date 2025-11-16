@@ -1,0 +1,9 @@
+{
+  "name": "AIGunlukAsistanim",
+  "displayName": "AI Günlük Asistanım",
+  "react-native": {
+    "android": {
+      "package": "com.aigunlukasistanim"
+    }
+  }
+}

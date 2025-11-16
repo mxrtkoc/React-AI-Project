@@ -1,0 +1,44 @@
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node modules (her yerde)
+node_modules/
+**/node_modules/
+
+# React Native / Android build files
+**/android/app/build/
+**/android/app/.cxx/
+**/android/.gradle/
+**/android/build/
+**/*.apk
+**/*.aab
+
+# iOS build files (varsa)
+**/ios/build/
+**/ios/Pods/
+**/ios/*.xcworkspace/xcuserdata/
+**/ios/*.xcodeproj/xcuserdata/
+**/DerivedData/
+
+# Metro bundler cache
+.metro-health-check*
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Package lock files (opsiyonel - eğer eklemek istemiyorsanız)
+# package-lock.json
+# yarn.lock
+
